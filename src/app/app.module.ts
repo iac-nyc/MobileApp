@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { HttpModule } from '@angular/http';
 import { ErrorHandler, NgModule } from '@angular/core';
 import { IonicApp, IonicErrorHandler, IonicModule } from 'ionic-angular';
+import { IonicStorageModule } from '@ionic/storage';
 
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
@@ -20,6 +21,7 @@ import { PromotionProvider } from '../providers/promotion/promotion';
 import { ProcessHttpmsgProvider } from '../providers/process-httpmsg/process-httpmsg';
 import { baseURL } from '../shared/baseurl';
 import { FavoriteProvider } from '../providers/favorite/favorite';
+import { LoginPage } from '../pages/login/login';
 
 @NgModule({
   declarations: [
@@ -30,13 +32,15 @@ import { FavoriteProvider } from '../providers/favorite/favorite';
     ContactPage,
     DishdetailPage,
     FavoritesPage,
-   ReservationPage,
+    ReservationPage,
+    LoginPage,
 
   ],
   imports: [
     BrowserModule,
      HttpModule,
     IonicModule.forRoot(MyApp),
+    IonicStorageModule.forRoot(),
     
   ],
   bootstrap: [IonicApp],
@@ -49,6 +53,7 @@ import { FavoriteProvider } from '../providers/favorite/favorite';
     DishdetailPage,
     FavoritesPage,
     ReservationPage,
+    LoginPage,
 
 
   ],
