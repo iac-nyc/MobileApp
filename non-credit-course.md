@@ -1,7 +1,8 @@
-Iftekhar Chowdhury
-===========
+# Iftekhar Chowdhury
 
-List of certificates earned from Universities/Institutes in IT/Cybersecurity/Programming:
+`Non-Credit Course List and Web Development Portfolio`
+
+List of **certificates** earned from Universities/Institutes in IT/Cybersecurity/Programming:
 
 1. IBM Cybersecurity Analyst - https://www.coursera.org/account/accomplishments/specialization/certificate/DTA8XB92L9R8
 2. Microsoft Certified: Azure Fundamentals - https://www.credly.com/badges/a43757ad-2702-4cf0-8d4d-41856850833c/public_url
@@ -47,33 +48,76 @@ List of certificates earned from Universities/Institutes in IT/Cybersecurity/Pro
 42. Cyber Threat Intelligence - https://www.coursera.org/account/accomplishments/certificate/V8W53R65DSVQ
 
 
+`NYU Profile:`
 
-
-NYU Profile:
 Programming courses from NYU School of Professional Studies:
-Total courses:2
-https://basno.com/users/iftekharchowdhury
 
-My Coursera Profile:
-https://www.coursera.org/user/e276a3c7354fc1876e4bc293a6180b1a
+Total courses: 2
+
+  - https://basno.com/users/iftekharchowdhury
+
+`Coursera Profile:`
+
+  - https://www.coursera.org/user/e276a3c7354fc1876e4bc293a6180b1a
+
+```
 Total learning hours: 981
-Professional Certificates completed: 1
-Specializations completed: 3
-Courses completed: 28
 
+Professional Certificates completed: 1
+
+Specializations completed: 3
+
+Courses completed: 28
+```
+
+`Treehouse:`
+
+```
 I have completed 179 short courses from Teamtreehouse.
+```
  - https://iac-nyc.github.io/courseView/
  - https://teamtreehouse.com/profiles/iftekharchowdhury
 
-I'm a New York State employee and as a full-time employee I had the privilege to take many courses from many platforms. I have earned 107 Credentials from the following platform:
+I'm a New York State employee and as a full-time employee I had the privilege to take many courses from many platforms.
+```
+I have earned 107 Credentials from the following platform:
+```
 - https://skillsoft.digitalbadges.skillsoft.com/profile/iftekharchowdhury251278/wallet
 
-My Udemy Profile:
-https://www.udemy.com/user/iftekhar-chowdhury-4/
-Total courses:12
+`Udemy Profile:`
 
-My Credly profile: https://www.credly.com/users/iftekhar-chowdhury.e1b4dbbc/badges
+  - https://www.udemy.com/user/iftekhar-chowdhury-4/
 
-I completed the IBM Cybersecurity Analyst Professional Certificate. This credential has been successfully evaluated by the American Council on Education for college credit. It is recommended for a total of 10 college credits. (https://www.credly.com/badges/9b3ed85a-e8fd-45d1-b646-b62a5dc0a667)
+Total courses: 12
 
-I have earned my Azure AZ-900: Microsoft Azure Fundamentals certification. This credential has been successfully evaluated by the American Council on Education for college credit. It is recommended for a total of 3 college credits. (https://www.credly.com/badges/a43757ad-2702-4cf0-8d4d-41856850833c)
+`Credly profile:`
+
+  - https://www.credly.com/users/iftekhar-chowdhury.e1b4dbbc/badges
+
+```
+I completed the IBM Cybersecurity Analyst Professional Certificate. This credential has been successfully evaluated by the American Council on Education for college credit. It is recommended for a total of 10 college credits.
+```
+  - https://www.credly.com/badges/9b3ed85a-e8fd-45d1-b646-b62a5dc0a667
+
+```
+I have earned my Azure AZ-900: Microsoft Azure Fundamentals certification. This credential has been successfully evaluated by the American Council on Education for college credit. It is recommended for a total of 3 college credits.
+```
+  - https://www.credly.com/badges/a43757ad-2702-4cf0-8d4d-41856850833c
+
+`Portfolio`
+```
+I love web development. I'm a FullStack Software Developer.
+```
+  - https://iac-nyc.github.io/certificatesView/
+
+  - https://iac-nyc.github.io/ristorante/
+
+  - https://iac-nyc.github.io/Employee_Directory/
+
+  - https://github.com/iac-nyc/restaurant_app
+
+  - https://github.com/iac-nyc/restaurant
+
+  - https://iac-nyc.github.io/badgeView/
+
+  - https://iac-nyc.github.io/courseView/
