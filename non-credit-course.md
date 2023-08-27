@@ -4,8 +4,7 @@
 
 List of **certificates** earned from Universities/Institutes in IT/Cybersecurity/Programming:
 
-43. IoT Security Practitioner - https://www.credly.com/earner/earned/badge/93aea6bf-66c4-4292-a986-f13fbe2f341d
-    
+43. IoT Security Practitioner - https://www.credly.com/earner/earned/badge/93aea6bf-66c4-4292-a986-f13fbe2f341d    
 1. IBM Cybersecurity Analyst - https://www.coursera.org/account/accomplishments/specialization/certificate/DTA8XB92L9R8
 2. Microsoft Certified: Azure Fundamentals - https://www.credly.com/badges/a43757ad-2702-4cf0-8d4d-41856850833c/public_url
 3. Full-Stack Web Development with React - https://www.coursera.org/account/accomplishments/specialization/certificate/9BG7LSXPZ27C
