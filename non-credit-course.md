@@ -47,7 +47,7 @@ List of **certificates** earned from Universities/Institutes in IT/Cybersecurity
 44. Programming: Python - https://basno.com/47o5s6s3
 41. HTML, CSS and JavaScript - https://www.coursera.org/account/accomplishments/certificate/UMARA6GYTCVT
 42. Cyber Threat Intelligence - https://www.coursera.org/account/accomplishments/certificate/V8W53R65DSVQ
-43. IoT Security Practitioner - https://www.credly.com/earner/earned/badge/93aea6bf-66c4-4292-a986-f13fbe2f341d 
+43. IoT Security Practitioner - https://www.credly.com/badges/93aea6bf-66c4-4292-a986-f13fbe2f341d
 
 
 `NYU Profile:`
